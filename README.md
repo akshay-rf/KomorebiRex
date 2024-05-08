@@ -109,7 +109,7 @@ Contributions to KomorebiRex are welcome! If you have ideas, bug fixes, or featu
 ## Authors
 
 -   Akshay Mano R F ([@akshay-rf](https://github.com/akshay-rf))
--   Rohit Dharmavaram ([@rohit-d](https://www.linkedin.com/in/rohitdharmavaram/))
+-   Rohit Dharmavaram ([@rohit-d](https://github.com/RohitD1207))
 
 <!-- License Section -->
 
