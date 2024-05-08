@@ -48,12 +48,12 @@
 
 ## Installation
 
-1.  Clone the repository:
+1.  **Clone the repository:**
     
     ```bash
     git clone https://github.com/akshay-rf/KomorebiRex.git
     ```
-2.   Install dependencies:
+2.   **Install dependencies:**
 	    ```bash 
 	    pip install -r requirements.txt 
 	    ```
@@ -63,13 +63,13 @@
 
 ## Usage
 
-1.  Run the application:
+1.  **Run the application:**
     
     ```bash 
     streamlit run .\main.py
     ``` 
     
-2.  Access the application: Open a web browser and navigate to `http://localhost:8501` to use KomorebiRex.
+2.  **Access the application:** Open a web browser and navigate to `http://localhost:8501` to use KomorebiRex.
     
 
 <!-- Feedback Section -->
