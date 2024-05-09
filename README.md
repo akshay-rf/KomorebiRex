@@ -7,7 +7,6 @@
 -   [Demo](#demo)
 -   [Installation](#installation)
 -   [Usage](#usage)
--   [Feedback](#feedback)
 -   [Dataset](#dataset)
 -   [Contributing](#contributing)
 -   [Authors](#authors)
