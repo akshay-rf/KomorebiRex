@@ -3,7 +3,6 @@ import sqlite3
 from surprise import Dataset, Reader
 from sklearn.preprocessing import OrdinalEncoder, MinMaxScaler
 
-from surprise import Reader, Dataset
 from surprise.model_selection import cross_validate, GridSearchCV
 from surprise import KNNBasic, KNNWithMeans, KNNWithZScore, KNNBaseline, SVD
 from surprise import accuracy
